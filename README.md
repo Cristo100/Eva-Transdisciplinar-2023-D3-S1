@@ -25,7 +25,8 @@ En conceptos básicos del sistema, es decir, sin agregar una segunda masa o algu
 
 ## Análisis frente a las variables
 Con los términos ya identificados, lo primero que se debe realizar para obtener una aceleración de un objeto inclinado es hacer mostrar una representación del problema con el fin de poder analizarlo con una mayor facilidad.
-![](https://cdn.kastatic.org/ka-perseus-images/1f848b6e7e25a2bc5d506b89a31434fda1d531ca.png)
+
+(https://cdn.kastatic.org/ka-perseus-images/1f848b6e7e25a2bc5d506b89a31434fda1d531ca.png)
 
 Considerando un caso estándar de plano inclinado, es decir, sin alguna velocidad adicional u otro objeto que lo detenga (una cuerda por ejemplo) lo primero que se debe hacer es identificar las fuerzas que están dentro de este objeto.
 
