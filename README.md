@@ -51,25 +51,25 @@ La solución a este tipo de problemas no es un ejercicio lineal. Lo que se debe 
 ### Eje Y:
 Algo muy similar sucede con el eje Y, pero como se puede analizar, este no tiene ningún movimiento de subir y bajar desde el punto de vista de la superficie, por lo que la suma de sus fuerzas es 0
 
-					Fuerza Normal - Peso Y = 0
+			Fuerza Normal - Peso Y = 0
    
 Con esa igualdad, se puede decir que la fuerza normal del objeto es igual al peso Y
 
-					   Fuerza Normal = Peso Y
+			Fuerza Normal = Peso Y
 
 Similar que el Peso X, el Peso Y varia dependiendo de la inclinacion de la superficie, siendo esta fuerza igual a la masa por la gravedad por el coseno del angulo de la superficie.
 
-		      	Fuerza Normal = Masa * Gravedad * Cosθ
+		    Fuerza Normal = Masa * Gravedad * Cosθ
 		      	
 ### Eje X:
 Gracias a la segunda ley de newton se sabe que la suma de todas las fuerzas dentro del objeto es equivalente al producto entre la masa y su aceleración
 
-					F neta  =  Masa * Aceleración
+			F neta  =  Masa * Aceleración
 
 
 ¿En que consiste la fuerza neta? pues en el Peso X menos la fuerza de fricción que existe en la superficie
 
-				Peso X - Fricción  =  Masa * Aceleración
+			Peso X - Fricción  =  Masa * Aceleración
 		
 		
 El Peso X es una fuerza que afectara al objeto dependiendo del Angulo de inclinación del objeto, ya que este tendrá un ángulo idéntico, por lo que el peso X se reemplaza por su verdadero valor, que es la masa por la gravedad por el seno del ángulo de la superficie (llamando θ al ángulo existente)
