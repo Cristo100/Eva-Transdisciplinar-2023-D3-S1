@@ -59,7 +59,7 @@ Con esa igualdad, se puede decir que la fuerza normal del objeto es igual al pes
 
 Similar que el Peso X, el Peso Y varia dependiendo de la inclinacion de la superficie, siendo esta fuerza igual a la masa por la gravedad por el coseno del angulo de la superficie.
 
-		    Fuerza Normal = Masa * Gravedad * Cosθ
+			Fuerza Normal = Masa * Gravedad * Cosθ
 		      	
 ### Eje X:
 Gracias a la segunda ley de newton se sabe que la suma de todas las fuerzas dentro del objeto es equivalente al producto entre la masa y su aceleración.
