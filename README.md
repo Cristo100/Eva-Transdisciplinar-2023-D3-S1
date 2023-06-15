@@ -67,7 +67,7 @@ Gracias a la segunda ley de newton se sabe que la suma de todas las fuerzas dent
 			F neta  =  Masa * Aceleración
 
 
-¿En que consiste la fuerza neta? pues en el Peso X menos la fuerza de fricción que existe en la superficie
+¿Cuales son las fuerzas que afecta el eje X? pues en la suma  el Peso X menos la fuerza de fricción que existe en la superficie
 
 			Peso X - Fricción  =  Masa * Aceleración
 		
