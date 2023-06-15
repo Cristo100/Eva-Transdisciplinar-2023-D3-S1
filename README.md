@@ -33,7 +33,7 @@ Con los términos ya identificados, lo primero que se debe realizar para obtener
 
 Considerando un caso estándar de plano inclinado, es decir, sin alguna velocidad adicional u otro objeto que lo detenga (una cuerda por ejemplo) lo primero que se debe hacer es identificar las fuerzas que están dentro de este objeto.
 
-Viéndolo desde el otro punto de vista, haciendo que el plano este de forma horizontal (el movimiento y aceleración seguirá siendo el mismo) Se pueden ver los ejes X/Y de este objeto y las fuerzas que afectan a cada eje
+Viéndolo desde el otro punto de vista, haciendo que el plano este de forma horizontal (el movimiento y aceleración seguirá siendo el mismo) Se pueden ver los ejes X/Y de este objeto y las fuerzas que afectan a cada eje.
 
 ### Eje X:
 Considerando que la dirección que apunta hacia caída del objeto es el sentido positivo del eje X:
@@ -49,11 +49,11 @@ Considerando que la dirección que apunta hacia el lado opuesto de la superficie
 La solución a este tipo de problemas no es un ejercicio lineal. Lo que se debe hacer es analizar y trabajar con ambos ejes simultáneamente y traer igualdades necesarias el uno para el otro con el fin de obtener el resultado querido.
 
 ### Eje Y:
-Algo muy similar sucede con el eje Y, pero como se puede analizar, este no tiene ningún movimiento de subir y bajar desde el punto de vista de la superficie, por lo que la suma de sus fuerzas es 0
+Algo muy similar sucede con el eje Y, pero como se puede analizar, este no tiene ningún movimiento de subir y bajar desde el punto de vista de la superficie, por lo que la suma de sus fuerzas es 0.
 
 			Fuerza Normal - Peso Y = 0
    
-Con esa igualdad, se puede decir que la fuerza normal del objeto es igual al peso Y
+Con esa igualdad, se puede decir que la fuerza normal del objeto es igual al peso Y.
 
 			Fuerza Normal = Peso Y
 
@@ -62,40 +62,40 @@ Similar que el Peso X, el Peso Y varia dependiendo de la inclinacion de la super
 		    Fuerza Normal = Masa * Gravedad * Cosθ
 		      	
 ### Eje X:
-Gracias a la segunda ley de newton se sabe que la suma de todas las fuerzas dentro del objeto es equivalente al producto entre la masa y su aceleración
+Gracias a la segunda ley de newton se sabe que la suma de todas las fuerzas dentro del objeto es equivalente al producto entre la masa y su aceleración.
 
 			F neta  =  Masa * Aceleración
 
 
-¿Cuales son las fuerzas que afecta el eje X? pues en la suma  el Peso X menos la fuerza de fricción que existe en la superficie
+¿Cuales son las fuerzas que afecta el eje X? pues en la suma  el Peso X menos la fuerza de fricción que existe en la superficie.
 
 			Peso X - Fricción  =  Masa * Aceleración
 		
 		
-El Peso X es una fuerza que afectara al objeto dependiendo del Angulo de inclinación del objeto, ya que este tendrá un ángulo idéntico, por lo que el peso X se reemplaza por su verdadero valor, que es la masa por la gravedad por el seno del ángulo de la superficie (llamando θ al ángulo existente)
+El Peso X es una fuerza que afectara al objeto dependiendo del Angulo de inclinación del objeto, ya que este tendrá un ángulo idéntico, por lo que el peso X se reemplaza por su verdadero valor, que es la masa por la gravedad por el seno del ángulo de la superficie (llamando θ al ángulo existente).
 
 			Masa * Gravedad * Senθ - Fricción  =  Masa * Aceleración
 
 
-Una de las definiciones relevantes es el significado de la fricción, esta se puede definir como la fuerza normal multiplicado por "μ"
+Una de las definiciones relevantes es el significado de la fricción, esta se puede definir como la fuerza normal multiplicado por "μ".
 
 			Masa * Gravedad * Senθ - μ * Fuerza Normal =  Masa * Aceleración
 
 
-En el eje Y se logro deducir que la fuerza normal es igual al peso Y, por lo que se puede seguir desarrollando la igualdad
+En el eje Y se logro deducir que la fuerza normal es igual al peso Y, por lo que se puede seguir desarrollando la igualdad.
 
 			Masa * Gravedad * Senθ - μ * Masa * Gravedad * Cosθ =  Masa * Aceleración
 
 
-Ahora que se tienen todos los datos necesarios, se puede simplificar y finalmente obtener un resultado igualado a la aceleración del objeto
+Ahora que se tienen todos los datos necesarios, se puede simplificar y finalmente obtener un resultado igualado a la aceleración del objeto.
 
 			g(Senθ - μ * Cosθ) = Aceleracion
 
 
 ## ¿Cuáles son sus usos?
 
-Estas situaciones sobre el deslizamiento de un objeto frente a la inclinación de su superficie se encuentra en todas partes dentro de la vida cotidiana
+Estas situaciones sobre el deslizamiento de un objeto frente a la inclinación de su superficie se encuentra en todas partes dentro de la vida cotidiana.
 
 Esto se puede ver en situaciones de deportes, sobre todo los extremos como el patinaje, motocross.
 
-También en la conducción del día a día, logrando ver como los vehículos deben bajar o subir una colina
+También en la conducción del día a día, logrando ver como los vehículos deben bajar o subir una colina.
