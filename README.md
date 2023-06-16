@@ -92,10 +92,10 @@ Ahora que se tienen todos los datos necesarios, se puede simplificar y finalment
 			g(Senθ - μ * Cosθ) = Aceleracion
 
 
-## ¿Cuáles son sus usos?
+## ¿Donde puedo ver esta clase de situaciones?
+Ejemplos del plano inclinado existen en todas partes dentreo de la naturaleza y la vida cotidiana, por ejemplo:
 
-Estas situaciones sobre el deslizamiento de un objeto frente a la inclinación de su superficie se encuentra en todas partes dentro de la vida cotidiana.
-
-Esto se puede ver en situaciones de deportes, sobre todo los extremos como el patinaje, motocross.
-
-También en la conducción del día a día, logrando ver como los vehículos deben bajar o subir una colina.
+- **Naturaleza:** Desde las colinas comunes hasta las montañas mas grandes teniendo interaccion con su entorno.
+- **Transporte:** Al momento de la conduccion, uno puede llegar a calcular los datos necesarios para que los vehiculos logren cumplir su cometido a pesar de las grandes diferencias de masa que existen entre diferentes vehiculos como camiones o motos.
+- **Extension de la fisica:** Para lograr comprender el resto de temas, sobretodo cuando se habla de las leyes de newton, es necesario tener en cuenta estos conocimientos sobre al reaccion de un objeto frente a una variacion de superficie y la gravedad.
+- **Deportes y otros:** Muchos eventos deportivos o extremos deben tener en cuenta este tipo de factores para lograr ser mejores que los demas competidores.
