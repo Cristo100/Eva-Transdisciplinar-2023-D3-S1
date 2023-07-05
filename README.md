@@ -99,3 +99,12 @@ Ejemplos del plano inclinado existen en todas partes dentreo de la naturaleza y 
 - **Transporte:** Al momento de la conduccion, uno puede llegar a calcular los datos necesarios para que los vehiculos logren cumplir su cometido a pesar de las grandes diferencias de masa que existen entre diferentes vehiculos como camiones o motos.
 - **Extension de la fisica:** Para lograr comprender el resto de temas, sobretodo cuando se habla de las leyes de newton, es necesario tener en cuenta estos conocimientos sobre al reaccion de un objeto frente a una variacion de superficie y la gravedad.
 - **Deportes y otros:** Muchos eventos deportivos o extremos deben tener en cuenta este tipo de factores para lograr ser mejores que los demas competidores.
+
+
+
+# Video Youtube
+En esta seccion se dara un enlace hacia el video que explica un paso a paso mas sencillo de seguir y explicar. Hubo diferencias entre mi compañero y yo, por lo que decidi hacer el trabajo de forma independiente (Cristobal Pichara)
+
+Enlace:
+https://youtu.be/Wib0NHX6rkk
+
